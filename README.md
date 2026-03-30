@@ -1,0 +1,2 @@
+# Great-repository-names-are-short-and-memorable
+// SPDX-License-Identifier: MIT pragma solidity ^0.8.20; contract C3 { uint public x = 3; }
